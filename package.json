@@ -1,0 +1,27 @@
+{
+  "name": "cwn-analytics",
+  "version": "1.0.0",
+  "description": "A small application built to show useful analytics on CoWorking Night to the Urban Engine directors.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urbanengine/cwn-analytics.git"
+  },
+  "keywords": [],
+  "author": "Urban Engine Development Team",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/urbanengine/cwn-analytics/issues"
+  },
+  "homepage": "https://github.com/urbanengine/cwn-analytics#readme",
+  "dependencies": {
+    "next": "^9.0.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  } 
+}
